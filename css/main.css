@@ -102,6 +102,21 @@ textarea {
 img{
   width: 100%;
 }
+header{
+  display: none;
+}
+.social{
+  display: flex;
+  justify-content: center;
+}
+.social img{
+  width: 2.5em;
+  height: 2.5em;
+}
+
+.logo{
+  display: flex;
+}
 
 
 /*Fin version mobile*/
